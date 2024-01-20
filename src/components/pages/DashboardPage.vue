@@ -1,7 +1,7 @@
 <template>
     <layout-div>
         <div class="row justify-content-md-center">
-            <div class="col-12">
+          
                 <nav class="navbar navbar-expand-lg navbar-light NavabarStyle">
                     <div class="container-fluid">
                         <!-- <ul class="navbar-nav addbutton">
@@ -11,6 +11,11 @@
                              
                             </li>
                         </ul> -->
+                        <ul class="navbar-nav">
+                            <li style="color: #FFFFFF; font-weight: 700;" class="nav-item">
+                              User Name
+                            </li>
+                        </ul>
                         <div class="d-flex">
                             <ul class="navbar-nav">
                                 <li class="nav-item">
@@ -22,6 +27,9 @@
                         </div>
                     </div>
                 </nav>
+
+
+
                 <div class="col-12 mt-4">
                     <nav class="navbar navbar-expand-lg navbar-light listStyle">
                         
@@ -133,7 +141,7 @@
                         </div>
                     </nav>
                 </div>
-            </div>
+        
 
 
         </div>
